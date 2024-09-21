@@ -1,0 +1,60 @@
+nav{
+    background-image: url(imagens/sortido-assado-pao_87742-8900.jpg);
+}
+
+
+.meu{
+
+    width:800px;
+    padding:10px;
+}
+.meu img{
+    height:300px;
+}
+
+.meu2{
+
+    width:800px;
+    padding:10px;
+}
+.meu2 img{
+    width:200px;
+    height:300px;
+}
+
+.im{
+
+    padding:10px;
+}
+
+
+.im img{
+    width:300px;
+   height:200px;
+
+}
+
+.x img{
+    width:300px;
+    height:400px;
+    
+}
+
+.i text{
+    padding : 50cm;
+
+}
+
+.o {
+    padding: 60px;
+
+}
+body{
+    background-size: cover;
+    background-image:url(imagens/images.jfif) ;
+
+    }
+
+    body {
+        color: white;
+ }

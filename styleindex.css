@@ -1,0 +1,59 @@
+.meu{
+
+    width:800px;
+    padding:10px;
+}
+.meu img{
+    height:300px;
+}
+
+.meu2{
+
+    width:800px;
+    padding:10px;
+}
+.meu2 img{
+    width:200px;
+    height:300px;
+    margin-right: 10px;
+}
+
+.im{
+
+    margin-right: 10px;
+    padding:10px;
+}
+
+.div-imagem{
+    margin-right: 10px;
+}
+
+.im img{
+    width:300px;
+   height:200px;
+
+}
+
+.x img{
+    width:600px;
+    height:400px;
+    
+}
+
+.i text{
+    padding: 50cm;
+
+}   
+div#img_topo {
+    
+    margin-left: 2px;
+    left: 80px;
+}
+
+div#txt1 {
+    left: 80px;
+    margin-left: 100px;
+}
+
+
+
